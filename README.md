@@ -110,7 +110,29 @@ flutter install
 ### Deshacer acciones
 - Al eliminar una tarea, presiona **"Deshacer"** en la notificación inferior
 
-## 🛠️ Tecnologías Utilizadas
+## � Capturas de Pantalla
+
+### Lista de Tareas
+![Lista de Tareas](assets/screenshots/task_list.png)
+Pantalla principal con la lista de tareas pendientes e interfaz para agregar nuevas tareas.
+
+### Diálogo Agregar Tarea
+![Agregar Tarea](assets/screenshots/add_task.png)
+Diálogo emergente para ingresar el nombre de la nueva tarea.
+
+### Menú de Opciones (Long Press)
+![Menú de Opciones](assets/screenshots/options_menu.png)
+Menú inferior con opciones para completar, eliminar o recordar una tarea.
+
+### Estado Vacío
+![Estado Vacío](assets/screenshots/empty_state.png)
+Pantalla cuando no hay tareas pendientes.
+
+### Notificación Local
+![Notificación](assets/screenshots/notification.png)
+Notificación que aparece al crear una tarea o cuando se activa un recordatorio.
+
+## �🛠️ Tecnologías Utilizadas
 
 | Tecnología | Versión | Descripción |
 |-----------|---------|-------------|
