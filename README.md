@@ -1,4 +1,4 @@
-# gestor_tareas
+# Gestor de Tareas
 
 Gestor de tareas en flutter implementando notificaciones
 
