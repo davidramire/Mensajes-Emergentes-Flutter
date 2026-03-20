@@ -113,23 +113,23 @@ flutter install
 ## � Capturas de Pantalla
 
 ### Lista de Tareas
-![Lista de Tareas](assets/screenshots/task_list.png)
+![Lista de Tareas](assets/screenshots/Interfaz_principal.png)
 Pantalla principal con la lista de tareas pendientes e interfaz para agregar nuevas tareas.
 
 ### Diálogo Agregar Tarea
-![Agregar Tarea](assets/screenshots/add_task.png)
+![Agregar Tarea](assets/screenshots/Agregar_tarea.png)
 Diálogo emergente para ingresar el nombre de la nueva tarea.
 
 ### Menú de Opciones (Long Press)
-![Menú de Opciones](assets/screenshots/options_menu.png)
+![Menú de Opciones](assets/screenshots/Menu_opciones.png)
 Menú inferior con opciones para completar, eliminar o recordar una tarea.
 
 ### Estado Vacío
-![Estado Vacío](assets/screenshots/empty_state.png)
+![Estado Vacío](assets/screenshots/Estado_vacio.png)
 Pantalla cuando no hay tareas pendientes.
 
 ### Notificación Local
-![Notificación](assets/screenshots/notification.png)
+![Notificación](assets/screenshots/Notificacion_local.png)
 Notificación que aparece al crear una tarea o cuando se activa un recordatorio.
 
 ## �🛠️ Tecnologías Utilizadas
