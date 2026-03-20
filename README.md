@@ -1,6 +1,6 @@
 # Gestor de Tareas
 
-Gestor de tareas en flutter implementando notificaciones
+clGestor de tareas en flutter implementando notificaciones
 
 ## Getting Started
 
