@@ -1,6 +1,6 @@
 # gestor_tareas
 
-A new Flutter project.
+Gestor de tareas en flutter implementando notificaciones
 
 ## Getting Started
 
